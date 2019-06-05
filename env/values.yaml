@@ -22,6 +22,6 @@ jenkins:
       EnvVars:
         TILLER_NAMESPACE: kube-system
 prow: {}
-devOps2019_Tutorial:
+devops2019-tutorial:
   env:
     TITLE: DevOps Essentials
